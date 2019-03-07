@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wangyigou_common" />
+        <module name="wangyigou_content_interface" />
+        <module name="wangyigou_content_service" />
+        <module name="wangyigou_dao" />
+        <module name="wangyigou_manager_web" />
+        <module name="wangyigou_pojo" />
+        <module name="wangyigou_portal_web" />
+        <module name="wangyigou_sellgoods_interface" />
+        <module name="wangyigou_sellgoods_service" />
+        <module name="wangyigou_solr_util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="wangyigou_common" target="1.7" />
+      <module name="wangyigou_content_interface" target="1.7" />
+      <module name="wangyigou_content_service" target="1.7" />
+      <module name="wangyigou_dao" target="1.7" />
+      <module name="wangyigou_manager_web" target="1.7" />
+      <module name="wangyigou_parent" target="1.7" />
+      <module name="wangyigou_pojo" target="1.7" />
+      <module name="wangyigou_portal_web" target="1.7" />
+      <module name="wangyigou_sellgoods_interface" target="1.7" />
+      <module name="wangyigou_sellgoods_service" target="1.7" />
+      <module name="wangyigou_solr_util" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

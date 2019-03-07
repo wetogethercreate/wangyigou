@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_content_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_content_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_portal_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellgoods_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellgoods_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_solr_util" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_common/wangyigou_common.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_common/wangyigou_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_content_interface/wangyigou_content_interface.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_content_interface/wangyigou_content_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_content_service/wangyigou_content_service.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_content_service/wangyigou_content_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/wangyigou_dao.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_dao/wangyigou_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/wangyigou_manager_web.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_manager_web/wangyigou_manager_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_parent.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/wangyigou_pojo.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_pojo/wangyigou_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_portal_web/wangyigou_portal_web.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_portal_web/wangyigou_portal_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellgoods_interface/wangyigou_sellgoods_interface.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellgoods_interface/wangyigou_sellgoods_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_sellgoods_service/wangyigou_sellgoods_service.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_sellgoods_service/wangyigou_sellgoods_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wangyigou_parent/wangyigou_solr_util/wangyigou_solr_util.iml" filepath="$PROJECT_DIR$/wangyigou_parent/wangyigou_solr_util/wangyigou_solr_util.iml" />
+    </modules>
+  </component>
+</project>
